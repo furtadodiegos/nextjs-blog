@@ -1,22 +1,23 @@
 {
-  // This section enables Universal Links
   "applinks": {
     "apps": [],
     "details": [
       {
-        // Example: "QQ57RJ5UTD.com.acme.myapp"
         "appID": "JGCU637CYB.com.cheerioworld.nevermet.alpha",
-        // All paths that should support redirecting
-        "paths": ["*"]
+        "paths": [
+          "*"
+        ]
       }
     ]
   },
-  // This section enables Apple Handoff
   "activitycontinuation": {
-    "apps": ["JGCU637CYB.com.cheerioworld.nevermet.alpha"]
+    "apps": [
+      "JGCU637CYB.com.cheerioworld.nevermet.alpha"
+    ]
   },
-  // This section enable Shared Web Credentials
   "webcredentials": {
-    "apps": ["JGCU637CYB.com.cheerioworld.nevermet.alpha"]
+    "apps": [
+      "JGCU637CYB.com.cheerioworld.nevermet.alpha"
+    ]
   }
 }
