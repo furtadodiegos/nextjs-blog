@@ -5,7 +5,9 @@
       "namespace": "android_app",
       "package_name": "com.cheerioworld.nevermet.alpha",
       "sha256_cert_fingerprints": [
-        "FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C"
+        "BE:CA:6C:8C:9D:8F:6B:D6:7C:ED:E3:D2:EE:9C:90:71:31:D5:11:91:F9:9D:41:D5:51:AB:16:BF:36:7C:F1:B7",
+        "FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C",
+        "C1:FE:06:F2:5F:26:9E:B3:2E:5A:84:44:40:99:5C:C1:9B:0C:2D:7F:AA:45:9A:83:3E:4D:D5:AF:38:11:9E:BE"
       ]
     }
   }
