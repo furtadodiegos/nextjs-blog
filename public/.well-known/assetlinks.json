@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.cheerioworld.nevermet.alpha",
+      "sha256_cert_fingerprints": [
+        "BE:CA:6C:8C:9D:8F:6B:D6:7C:ED:E3:D2:EE:9C:90:71:31:D5:11:91:F9:9D:41:D5:51:AB:16:BF:36:7C:F1:B7"
+      ]
+    }
+  }
+]
