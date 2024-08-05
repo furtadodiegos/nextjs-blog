@@ -5,7 +5,7 @@
       {
         "appID": "JGCU637CYB.com.cheerioworld.nevermet.alpha",
         "paths": [
-          "*"
+          "/*"
         ]
       }
     ]
